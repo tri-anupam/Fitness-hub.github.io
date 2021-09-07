@@ -613,11 +613,18 @@ nav .fas {
 }
 @media(max-width:700px){
   .name{
-    width: 250px;
+    width: 200px;
   }
   .name textarea{
     height: 80px;
-    width: 250px;
+    width: 200px;
+  }
+  .blog-content p{
+    font-size: 13px;
+    line-height: 15px;
+  }
+  .blog-content h4{
+    font-size:17px;
   }
 }
 footer{
@@ -726,6 +733,8 @@ form2 button{
     grid-template-columns: 1fr;
   }
 }
+
+
 
 
 
